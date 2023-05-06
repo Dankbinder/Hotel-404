@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2021_3_16;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_16;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -57,7 +57,9 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Property Drawers\PGG_SingleLineSelectorAttribute.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Fundamentals\FGenGrid.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Cells\SR_AddCellDataString.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\PlayerMovement.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Graph\Custom Ports\PGGFieldPort.cs" />
+     <Compile Include="Assets\FPSInput.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Values\PR_ChooseRandom.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Cells\Mod Cell Parameters\MR_GetCellStateOnGrid.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Build Setup\PR_CollectFields.cs" />
@@ -103,6 +105,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\FieldAndGrid\SR_OffsetCenter.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Access\PR_SubFieldsCount.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Mesh Setup\TileMeshSetup.Lathe.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Z Axis -1\Drawer_Pull_Zopp.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Operations\SpawnRestriction.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Checkers\CheckerField.Utilities.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Simple\SimpleFieldGenerator.cs" />
@@ -121,6 +124,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\PR_GetInternalValueVariable.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Cells\MR_GetNeighbourCell.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Visualization\InteriorGridVisualize.Draw.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\X Axis\Drawer_Pull_X.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core\PipeGenerator.Gizmos.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Quick Solutions\SR_ModGraph.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Shape\PR_ShapeUnion.cs" />
@@ -134,6 +138,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Simple\SimpleDungeonGenerator.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\BuildPlanInstance.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Loops\PR_IterateCellsInLine.cs" />
+     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Cells\SR_CellOperation.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Cells\SR_RemoveInDirection.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Executor\BuildPlannerExecutor.Generating.cs" />
@@ -155,6 +160,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Count\SR_LimitSpawnCount.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Actions\PR_IsAnyCellInPosition.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Transforming\MR_ClearOffsets.cs" />
+     <Compile Include="Assets\playerMovement.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Minimap Utilities\PGG_Minimap_WorldToMinimap.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Placement\SR_CellNeightbours.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Windows\CheckCellsSelectorWindow.cs" />
@@ -195,18 +201,20 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\FieldPlanner.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Actions\PR_SetCellParameter.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Operations\PR_DiscardField.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide\opencloseSlide.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Algebra\PR_Subtract.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Quick Solutions\SR_StairsHelper.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Spawns\MR_GenerateSpawn.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Transforming\Utilities\SR_RotateOnRepeat.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math\FEngineering.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Loops\PR_IterateCellOutsideDirections.cs" />
+     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Math\FEngineering.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics\Utilities\ModNodeBase.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Graph\Custom Ports\PGGModCellPort.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics\Shape Generators\SG_CrossRoad.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\ObjectStampMultiEmitter.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core\PipeGenerator.Generate.SpawnData.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Helper Components\TriggersRelation.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\OvenOpen\OvenFlip.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Cells\MR_GetCellsAround.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Minimap Utilities\PGG_UI_MinimapActiveElement.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Core\Async Related\PlannerAsyncManager.Update.cs" />
@@ -264,6 +272,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Grid\MR_GridSize.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Core\FieldPlanner.Reference.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Minimap Utilities\PGG_MinimapHandler.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseStallDoor.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Access\PR_GetPlannerDuplicate.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Access\PR_GetSubField.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Checker\PR_IsFieldCollidingWith.cs" />
@@ -353,16 +362,17 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\BuildingPlanGenerator.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Old Backup\Stamp Tile\SR_StampTile.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Work In Progress\FlexibleGenerator.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Scenes\Quitgame.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Checker\PR_CheckBoundsCollisionBetween.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Algebra\PR_Lerp.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Mesh Setup\TileMeshSetup.CubeGenerator.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Scriptables\Partials\FieldSetup.PostEvents.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics\Shape Generators\SG_LineGenerate.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Utility_DeloneField.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\BoundPathFind.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Executor\BuildPlannerExecutor.Compositing.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\RulesInterfaces.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Placement\SR_MultiCheckCellNeightbours.cs" />
+     <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Scriptables\Partials\FieldSetup.PostEvents.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Special\PR_PushInDirToAlign.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Values\PR_GenerateRandom.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Old Plan Generator\PlanGen.Plan.Utilities.cs" />
@@ -378,6 +388,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\GridPainter.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Property Drawers\PGG_SingleLineSwitch.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Mesh Setup\TileMeshSetup.Utils.cs" />
+     <Compile Include="Assets\MouseLock.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Actions\PR_AreCellsDiagonalToEach.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Vectors\PR_RotationToDirection.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core\ObjectStampEmitterBase.cs" />
@@ -434,9 +445,9 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Minimap Utilities\PGG_MinimapHandler_SidescrollXY.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Operations\SpawnInstruction.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Access\PR_GetSubFields.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Property Drawers\PGG_FieldPresetSwitch.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Mesh Setup\TileMeshSetup.Params.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Design\TileDesignPreset.cs" />
+     <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Property Drawers\PGG_FieldPresetSwitch.cs" />
      <Compile Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers\FGUI_Inspector.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Custom BP Nodes\BPNode_RectShape.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core\PipeGenerator.Generate.RandomFindOnStart.cs" />
@@ -471,9 +482,12 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Algebra\PR_Add.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Transforming\MR_SetPosition.cs" />
      <Compile Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers\FGUI_Resources.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Animating\FAnimatorMethods.cs" />
+     <Compile Include="Assets\fpsUI.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\RulesEnums.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\FMeshUtils.Triangulation.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\Z Axis\Drawer_Pull_Z.cs" />
+     <Compile Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Animating\FAnimatorMethods.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\SceneSwitchGen.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Helpers\RemoveInstruction.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics\PlannerFunctionNode.Editor.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Generating\Grid Structure\PR_AddCellToField.cs" />
@@ -505,8 +519,10 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Values\PR_Half.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Utilities\PGGInspectorUtilities.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core\PipeGenerator.Generate.PathFind.cs" />
-     <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Mesh Operations CSG\Classes\Model.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Closet\ClosetopencloseDoor.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Vectors\PR_DirectionToRotation.cs" />
+     <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Mesh Operations CSG\Classes\Model.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip\TableFlipR.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Build Setup\Generating Stage\PR_GetIterationIndex.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Core\Async Related\PlannerAsyncManager.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Values\PR_Append.cs" />
@@ -517,6 +533,9 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Generating\PR_BoundsToCells.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Helper Components\Bases\PGGGeneratorBase.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Fundamentals\FGenGraph.cs" />
+     <Compile Include="Assets\FPSControls.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseDoor.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player\MouseLook.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core\OStampStigma.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Shape\PR_AddSubField.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Collision\SR_BoundCollisionOffset.cs" />
@@ -531,6 +550,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Scriptables\Partials\FieldSetup.Grid.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Cells\SR_CellSpawnsCount.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Actions\PR_AddCellInstruction.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Shape\PR_ReplaceFieldCells.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core\PipeGenerator.Editor.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics\PlannerFunctionNode.cs" />
@@ -549,6 +569,7 @@
      <Compile Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers\FGUI_Handles.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Minimap Utilities\PGG_Minimap_GridToMinimap.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\RectangleFillHelper.cs" />
+     <Compile Include="Assets\PlayerInput.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Other\SR_Comment.cs" />
      <Compile Include="Assets\FImpossible Creations\Shared Tools\Node FGraph\Node Port Types\FSGr_FloatPort.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Mesh Setup\TileMeshSetup.Primitives.cs" />
@@ -581,8 +602,10 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Utilities\GSerializableDictionary.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core\PipeGenerator.PipeSegmentSetup.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Access\PR_FieldInstancesCount.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors\opencloseDoor1.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core\Scriptables\OStamperSet-Partials\OStamperSet.Utilities.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Collision\SR_BoxPush.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Windows\opencloseWindowApt.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Shape\PR_ShapeSubtract.cs" />
      <Compile Include="Assets\FImpossible Creations\Shared Tools\Node FGraph\Node Base\FGraph_NodeBase.EditorUtils.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Fundamentals\FGenTwoDirDynamicList.cs" />
@@ -599,6 +622,7 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Scriptables\Partials\SpawnRuleBase.Editor.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Generators Shared\FGenerators\FGeneratorsGizmosDrawer.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Placement\SR_CheckCellsInLine.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide\BRGlassDoor.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Cells\MR_GetSpawnsInCell.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Modelling\SR_AcquireSpawn.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Simple\SimpleFieldGenerator_GenImplemented.cs" />
@@ -611,8 +635,10 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Logic\If Switches\PR_ValueBetweenSwitch.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core\PipeGenerator.Generate.Conditions.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\Mesh Operations CSG\Classes\Plane.cs" />
+     <Compile Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip\TableFlipL.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Old Plan Generator\PlanGen.Plan.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Checkers 3D\CheckerField3D.Operations.Trigo.cs" />
+     <Compile Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows\opencloseWindow1.cs" />
      <Compile Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes\FPD_MiscAttributes.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Special\PR_CustomTightPlacement.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Modelling\SR_TileGenerateNodeBase.cs" />
@@ -645,78 +671,124 @@
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Operations\MR_BreakSpawner.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Core\BuildPlannerPreset.FieldsRelation.cs" />
      <Compile Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Placement\SR_SimulatePhysics.cs" />
-     <Compile Include="Assets\FPSControls.cs" />
-     <Compile Include="Assets\FPSInput.cs" />
-     <Compile Include="Assets\MouseLock.cs" />
-     <Compile Include="Assets\playerMovement.cs" />
-     <Compile Include="Assets\GameManager.cs" />
-     <Compile Include="Assets\fpsUI.cs" />
-     <Compile Include="Assets\PlayerInput.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Textures\Plaster001_2K-PNG\Materials" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Grid" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Bathroom" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\OvenOpen" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Modelling" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Core" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Mesh Operations CSG" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Sculptures" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Core" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Collision" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Misc" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Executor" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Transforming\Utilities" />
      <Folder Include="Assets\FImpossible Creations\Shared Tools" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Core\Async Related" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Scenes" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Count" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\Mesh Operations CSG\CSG License.txt" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Textures\Interior Exterior" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Transforming\Conditional" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Minimap Utilities" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Models\Build Kits" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Checkers 3D" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\X Axis" />
      <None Include="Assets\FImpossible Creations\Plugins - Shared\FHelpers\MathHelpers - ReadMe.txt" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Models" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Design" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Materials" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Bedroom" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Walls Frames &amp; Doors\Apt_01" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures\Legacy" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Specific Solutions" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Flooring &amp; Ceilings" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Cells" />
      <Folder Include="Assets\Textures\Fabric025_2K-PNG\Materials" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Legacy" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures\Fire" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common" />
      <Folder Include="Assets\FImpossible Creations" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Sub Generators" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Operations" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Scriptables\Not Used" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior\Doors Frames" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Cells" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Living Room" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Generating" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Custom BP Nodes" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Scriptables" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Models\Legacy" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Doors" />
      <Folder Include="Assets\Textures\Fabric025_2K-PNG" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Operations" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\Furniture_Props" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Windows" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\Generators Shared\There are scripts used by all level design plugins.txt" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\Signs" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\CoreResources" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Utilities\Editor Related" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Scenes\Scene_03" />
      <Folder Include="Assets\FImpossible Creations\Shared Tools\Node FGraph\Node Elements" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Basic Assets" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Stall" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures\Restroom" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Generating\Grid Structure" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\FS_Drafts\It is directory for draft Field Setups.txt" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Frames Windows Stairs &amp; Doors" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Extra Generators" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Cells\Mod Cell Parameters" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Lighting" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Kitchen" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Transforming" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Z Axis -1" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior\Int_02" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics\Utilities" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generating" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Exteriors\Ext_Apt_01" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Generators Shared" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Mesh Operations CSG\Classes" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Wall Modern" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Helpers" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Doors" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Materials\Misc" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Algebra" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Property Drawers" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Bathroom" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Walls Frames &amp; Doors\Apt_02" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Structures" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Materials\Surface" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\Field Setup Drafts\It is directory for draft Field Setups.txt" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Windows" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Generators Shared\Helpers" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Textures" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core\Scriptables\OStamperMultiSet-Partials" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Checkers" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\BP_Drafts\It is directory for draft Build Planner Settups.txt" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core\Scriptables" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Misc" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Custom Function Nodes" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Scriptables\Partials" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\CoreResources\SH_TilePreviewWireframe2.shader" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Legacy" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Vectors" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Actions" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Common" />
@@ -724,49 +796,77 @@
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Transforming\Legacy" />
      <Folder Include="Assets\FImpossible Creations\Shared Tools\GUI Helpers" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core\Scriptables\OStamperSet-Partials" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\CoreResources\SH_TilePreviewSelection.shader" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Exterior" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Modelling" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Generating" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Molding" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Textures\Misc" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special" />
+     <Folder Include="Assets\Brick Project Studio" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Utilities" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\FS_Drafts" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\FieldAndGrid" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Walls" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Object Stamper - Readme.txt" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Work In Progress" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Textures\Surface" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Operations" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Special" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Materials\Interior Exterior" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Access" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Visualization" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Quick Solutions" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Function Nodes Only" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Mesh Setup" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Utils" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Fire" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Art" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Operations" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\RR Build Kit\Floors Ceilings" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\Field Setup Drafts" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\IntExt" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Graph" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit" />
      <Folder Include="Assets\FImpossible Creations\Shared Tools\Editor Tools" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom\Fixtures" />
      <Folder Include="Assets\Textures" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Transforming\Noise" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Slide" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Old Backup" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Graph\Custom Ports" />
      <Folder Include="Assets\Textures\Plaster001_2K-PNG" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Cells\Loops" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FHelpers" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\Modificator Pack Drafts\It is directory for draft Modificator Packages.txt" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Simple" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Tile Designer\Tile Designer Window" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\Animating" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Generators Shared\FGenerators" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Basic Asset\BA Build Kit\Interior\Int_01" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\Modificator Pack Drafts" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\BP_Drafts" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Walls Frames &amp; Doors" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets\Behaviours" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Exteriors" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Base Scene" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Helper Components\Bases" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Shape" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Components\Tools" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Textures\Basic Asset" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Presets Directory\MP_Drafts" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core\Clipboard" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\PostEvents" />
@@ -783,13 +883,25 @@
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Spawns" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Logic" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\Pipe Generator\Pipe Generator - Readme.txt" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Materials\Restroom" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen\Appliances" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\Closet" />
      <Folder Include="Assets\FImpossible Creations\Shared Tools\Node FGraph\Node Base" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Collum" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Fire" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Int into Ext" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Models" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Special\Wall Tiles" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Exteriors\Special" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\Object Stamper\Core" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Transforming" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Math\Values" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\FImpossible Creations\Shared Tools\Editor Tools\Property Attributes" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Logics\Shape Generators" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Electronics" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation\TableFlip" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Logic\If Switches" />
      <Folder Include="Assets\FImpossible Creations\Shared Tools\Node FGraph" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Generators Classes\Old Plan Generator" />
@@ -799,19 +911,28 @@
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Build Setup" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Procedural Generation Grid - Readme.txt" />
      <None Include="Assets\FImpossible Creations\Plugins - Shared\Math Helpers\MathHelpers - ReadMe.txt" />
+     <None Include="Assets\Brick Project Studio\Apartment Kit\Scenes\BPS Apartment Kit.txt" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner\Checker" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Helper Components" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core\Grid Fundamentals" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Build Setup\Generating Stage" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Kitchen\Cabinets" />
      <Folder Include="Assets\Player" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Planner Coded Nodes\Field Planner" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\Drawer\Z Axis" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Apt Build Kit\Interiors\Walls Frames &amp; Doors\Apt_03" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Mod Graph\Mod Field" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\_Prefabs\Restroom" />
      <None Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Planners Related\Custom Function Nodes\Custom Function Nodes Directory.txt" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Rules Logics\Utilities\Old Backup\Stamp Tile" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets\Behaviours\Cameras" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Level Design\PGG\Core" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Furniture\Wine Cabinet" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\_Prefabs\Props\Wine Liquor Beer and Glassware - Sample" />
+     <Folder Include="Assets\Brick Project Studio\_BPS Basic Assets\Common\Scripts and Animations\First Person Player" />
+     <Folder Include="Assets\Brick Project Studio\Apartment Kit\Common\Scripts &amp; Animation" />
      <Folder Include="Assets\FImpossible Creations\Plugins - Shared\FBasic Assets" />
      <None Include="Assets\FImpossible Creations\Directories Description.txt" />
      <Reference Include="UnityEngine">
@@ -1061,13 +1182,13 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
@@ -1436,91 +1557,103 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <Reference Include="Unity.Postprocessing.Editor">
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.InputSystem">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ProGrids.Editor">
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.ProGrids.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core.Analytics">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Postprocessing.Runtime">
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core.Environments">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.AI.Navigation">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
      </Reference>
      <Reference Include="Unity.AI.Navigation.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ProGrids">
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.ProGrids.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\dank\Documents\Hotel 404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>C:\Users\darkl\Documents\Hotel-404\Hotel 404\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -47,7 +47,7 @@ MonoBehaviour:
   _editor_drawRule: 1
   CellAllow: 1
   AllConditionsMet: 1
-  replaceOnTag: 
+  replaceOnTag: Wall
   CheckMode: 0
   Offset: {x: 0, y: 0.2, z: 0.5}
   OffsetMode: 1
@@ -146,10 +146,10 @@ MonoBehaviour:
   OMultiStamp: {fileID: 0}
   PrefabsList:
   - Prefab: {fileID: 1964404794173047168, guid: 142a97ad7d7ea004d9d87ebfc60fd435, type: 3}
-    MainCollider: {fileID: 0}
+    MainCollider: {fileID: 3657508195880942029, guid: 142a97ad7d7ea004d9d87ebfc60fd435, type: 3}
     subID: 0
     _refMesh: {fileID: 4068373912626513877, guid: 5822dd4d7ec18594287ce62445498f32, type: 3}
-    _refCol: {fileID: 0}
+    _refCol: {fileID: 3657508195880942029, guid: 142a97ad7d7ea004d9d87ebfc60fd435, type: 3}
   DrawMultiObjectStamps: 1
   Spawners:
   - Enabled: 1
@@ -181,7 +181,7 @@ MonoBehaviour:
   _editor_drawGlobalRules: 0
   _editor_drawModPackRules: 0
   _editor_shareSelected: 0
-  ParentPreset: {fileID: 0}
+  ParentPreset: {fileID: 11400000}
   ParentPack: {fileID: 7346514811394643436}
 --- !u!114 &-7040158675316177027
 MonoBehaviour:
@@ -308,7 +308,7 @@ MonoBehaviour:
   _editor_drawGlobalRules: 0
   _editor_drawModPackRules: 0
   _editor_shareSelected: 0
-  ParentPreset: {fileID: 0}
+  ParentPreset: {fileID: 11400000}
   ParentPack: {fileID: 7346514811394643436}
 --- !u!114 &-988890473938017202
 MonoBehaviour:
@@ -672,6 +672,7 @@ MonoBehaviour:
   FieldModificators:
   - {fileID: -1977569649386907466}
   - {fileID: 8484250111704057086}
+  - {fileID: -3363926906610157019, guid: d1e4095ebd98de14c9c32e8314122bc9, type: 2}
   ParentPreset: {fileID: 11400000}
   DisableWholePackage: 0
   SeedMode: 0
@@ -763,7 +764,7 @@ MonoBehaviour:
   Spawners:
   - Enabled: 1
     Name: Wall Top
-    SpawnerTag: 
+    SpawnerTag: Wall
     StampPrefabID: 0
     Parent: {fileID: 8484250111704057086}
     Rules:
@@ -790,5 +791,39 @@ MonoBehaviour:
   _editor_drawGlobalRules: 0
   _editor_drawModPackRules: 0
   _editor_shareSelected: 0
-  ParentPreset: {fileID: 0}
+  ParentPreset: {fileID: 11400000}
+  ParentPack: {fileID: 7346514811394643436}
+--- !u!114 &8815879660527877933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671fd9c659a53a04eb310656f11c9125, type: 3}
+  m_Name: New Modificator
+  m_EditorClassIdentifier: 
+  TemporaryContainer: {fileID: 0}
+  Enabled: 1
+  ModTag: 
+  DrawMeshAndBox: 0
+  Combine: 0
+  RunEmittersIfContains: 0
+  DrawSetupFor: 0
+  OStamp: {fileID: 0}
+  DrawObjectStamps: 1
+  OMultiStamp: {fileID: 0}
+  PrefabsList: []
+  DrawMultiObjectStamps: 1
+  Spawners: []
+  SubSpawners: []
+  VariantOf: {fileID: 0}
+  _editor_drawStamp: 1
+  _editor_drawSpawners: 1
+  _editor_drawGlobalRules: 0
+  _editor_drawModPackRules: 0
+  _editor_shareSelected: 0
+  ParentPreset: {fileID: 11400000}
   ParentPack: {fileID: 7346514811394643436}
