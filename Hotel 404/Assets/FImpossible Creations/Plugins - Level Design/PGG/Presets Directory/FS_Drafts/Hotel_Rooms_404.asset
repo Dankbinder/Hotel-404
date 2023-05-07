@@ -449,7 +449,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 671fd9c659a53a04eb310656f11c9125, type: 3}
-  m_Name: New Modificator
+  m_Name: Ceiling
   m_EditorClassIdentifier: 
   TemporaryContainer: {fileID: 0}
   Enabled: 1
@@ -498,7 +498,7 @@ MonoBehaviour:
   _editor_drawGlobalRules: 0
   _editor_drawModPackRules: 0
   _editor_shareSelected: 0
-  ParentPreset: {fileID: 0}
+  ParentPreset: {fileID: 11400000}
   ParentPack: {fileID: 7346514811394643436}
 --- !u!114 &-1977569649386907466
 MonoBehaviour:
@@ -559,7 +559,7 @@ MonoBehaviour:
   _editor_drawGlobalRules: 0
   _editor_drawModPackRules: 0
   _editor_shareSelected: 0
-  ParentPreset: {fileID: 0}
+  ParentPreset: {fileID: 11400000}
   ParentPack: {fileID: 7346514811394643436}
 --- !u!114 &-1129293390348977437
 MonoBehaviour:
@@ -862,7 +862,7 @@ MonoBehaviour:
   Spawners:
   - Enabled: 1
     Name: Random
-    SpawnerTag: 
+    SpawnerTag: furniture
     StampPrefabID: -1
     Parent: {fileID: 698445562368443780}
     Rules:
@@ -893,7 +893,7 @@ MonoBehaviour:
   _editor_drawGlobalRules: 0
   _editor_drawModPackRules: 0
   _editor_shareSelected: 0
-  ParentPreset: {fileID: 0}
+  ParentPreset: {fileID: 11400000}
   ParentPack: {fileID: 7346514811394643436}
 --- !u!114 &2057600162104455120
 MonoBehaviour:
@@ -1184,5 +1184,5 @@ MonoBehaviour:
   _editor_drawGlobalRules: 0
   _editor_drawModPackRules: 0
   _editor_shareSelected: 0
-  ParentPreset: {fileID: 0}
+  ParentPreset: {fileID: 11400000}
   ParentPack: {fileID: 7346514811394643436}

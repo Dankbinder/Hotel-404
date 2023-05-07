@@ -7,16 +7,17 @@ using UnityEngine.AI;
 
 public class EnemyAI : MonoBehaviour
 {
-    public float moveSpeed = 1.0f;
-    public float rotationSpeed = 3.0f;
-    public float chaseRange = 10.0f;
-    public float attackRange = 2.0f;
-    public float roamDistance = 5.0f;
-    public float minRoamDistance = 1.0f;
-    public float roamAngle = 180.0f;
-    public float roamUpdateFrequencyOffset = 0.5f;
-    public float roamUpdateFrequency;
-
+    [SerializeField] private float moveSpeed = 1.0f;
+    [SerializeField] private float chaseSpeed = 1.0f;
+    [SerializeField] private float rotationSpeed = 3.0f;
+    [SerializeField] private float chaseRange = 10.0f;
+    [SerializeField] private float attackRange = 2.0f;
+    [SerializeField] private float roamDistance = 5.0f;
+    [SerializeField] private float minRoamDistance = 1.0f;
+    [SerializeField] private float roamAngle = 180.0f;
+    [SerializeField] private float roamUpdateFrequencyOffset = 0.5f;
+    [SerializeField] private float roamUpdateFrequency;
+    private Rigidbody rb;
     private Transform target;
     private Vector3 roamTarget;
     private NavMeshAgent navMeshAgent;
@@ -25,6 +26,9 @@ public class EnemyAI : MonoBehaviour
 
     void Start()
     {
+        rb = GetComponent<Rigidbody>();
+        rb.useGravity = false;
+        Invoke("GravityEnable", 4f); // calls ActivateMethod() after 4 seconds
         target = GameObject.FindGameObjectWithTag("Player").transform;
         roamTarget = GetNewRoamTarget();
         navMeshAgent = GetComponent<NavMeshAgent>();
@@ -34,6 +38,11 @@ public class EnemyAI : MonoBehaviour
         nextRoamUpdateTime = Time.time + roamUpdateFrequency;
     }
 
+    private void GravityEnable()
+    {
+        rb.useGravity = true;
+    }
+    
     void Update()
     {
         float distanceToTarget = Vector3.Distance(transform.position, target.position);
@@ -42,7 +51,7 @@ public class EnemyAI : MonoBehaviour
         {
             navMeshAgent.destination = target.position;
             navMeshAgent.stoppingDistance = attackRange;
-
+            navMeshAgent.speed = chaseSpeed;
             Vector3 direction = target.position - transform.position;
             direction.y = 0;
             direction.Normalize();
@@ -52,6 +61,7 @@ public class EnemyAI : MonoBehaviour
         }
         else
         {
+            navMeshAgent.speed = moveSpeed;
             // Roam around freely
             if (Time.time > nextRoamUpdateTime)
             {

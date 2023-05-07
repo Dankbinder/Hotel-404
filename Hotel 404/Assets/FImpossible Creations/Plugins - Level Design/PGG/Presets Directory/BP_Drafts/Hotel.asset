@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Hallways Rooms
   m_EditorClassIdentifier: 
   _EditorDrawShape: 1
-  _EditorDrawParameters: 0
+  _EditorDrawParameters: 1
   _EditorDrawLogics: 1
   _EditorDrawPostLogics: 0
   _EditorSelectedShape: 0
@@ -39,13 +39,13 @@ MonoBehaviour:
   FVariables: []
   ExposeShape: 1
   FieldType: 0
-  DefaultFieldSetup: {fileID: 0}
+  DefaultFieldSetup: {fileID: 11400000, guid: 514ce4efcf5a8854494a0af7e29a53cc, type: 2}
   Instances: 1
   ExposeInstanceCount: 0
   DisableCollision: 0
   AlwaysPushOut: 1
   AllowRotateBy90: 1
-  PreviewCellSize: {x: 1, y: 1, z: 1}
+  PreviewCellSize: {x: 2, y: 2, z: 2}
   RoundToScale: 1
   MaxRetries: 64
   IndexOnPrint: 2
@@ -563,13 +563,13 @@ MonoBehaviour:
   FVariables: []
   ExposeShape: 1
   FieldType: 0
-  DefaultFieldSetup: {fileID: 0}
+  DefaultFieldSetup: {fileID: 11400000, guid: c363d1912b9496c4f9c19128b029d888, type: 2}
   Instances: 1
   ExposeInstanceCount: 0
   DisableCollision: 0
   AlwaysPushOut: 1
   AllowRotateBy90: 1
-  PreviewCellSize: {x: 1, y: 1, z: 1}
+  PreviewCellSize: {x: 2, y: 2, z: 2}
   RoundToScale: 1
   MaxRetries: 64
   IndexOnPrint: 6
@@ -784,13 +784,13 @@ MonoBehaviour:
   FVariables: []
   ExposeShape: 1
   FieldType: 0
-  DefaultFieldSetup: {fileID: 0}
+  DefaultFieldSetup: {fileID: 11400000, guid: d1e4095ebd98de14c9c32e8314122bc9, type: 2}
   Instances: 25
   ExposeInstanceCount: 0
   DisableCollision: 0
   AlwaysPushOut: 1
   AllowRotateBy90: 1
-  PreviewCellSize: {x: 1, y: 1, z: 1}
+  PreviewCellSize: {x: 2, y: 2, z: 2}
   RoundToScale: 1
   MaxRetries: 64
   IndexOnPrint: 1
@@ -5142,13 +5142,13 @@ MonoBehaviour:
   FVariables: []
   ExposeShape: 1
   FieldType: 0
-  DefaultFieldSetup: {fileID: 0}
+  DefaultFieldSetup: {fileID: 11400000, guid: 514ce4efcf5a8854494a0af7e29a53cc, type: 2}
   Instances: 1
   ExposeInstanceCount: 0
   DisableCollision: 0
   AlwaysPushOut: 1
   AllowRotateBy90: 1
-  PreviewCellSize: {x: 1, y: 1, z: 1}
+  PreviewCellSize: {x: 2, y: 2, z: 2}
   RoundToScale: 1
   MaxRetries: 64
   IndexOnPrint: 4
@@ -10772,13 +10772,13 @@ MonoBehaviour:
   FVariables: []
   ExposeShape: 1
   FieldType: 0
-  DefaultFieldSetup: {fileID: 0}
+  DefaultFieldSetup: {fileID: 11400000, guid: 514ce4efcf5a8854494a0af7e29a53cc, type: 2}
   Instances: 1
   ExposeInstanceCount: 0
   DisableCollision: 0
   AlwaysPushOut: 1
   AllowRotateBy90: 1
-  PreviewCellSize: {x: 1, y: 1, z: 1}
+  PreviewCellSize: {x: 2, y: 2, z: 2}
   RoundToScale: 1
   MaxRetries: 64
   IndexOnPrint: 3
@@ -14262,13 +14262,13 @@ MonoBehaviour:
   FVariables: []
   ExposeShape: 1
   FieldType: 0
-  DefaultFieldSetup: {fileID: 0}
+  DefaultFieldSetup: {fileID: 11400000, guid: 0365c2e5b25cd0d45861ee7472ffd42a, type: 2}
   Instances: 1
   ExposeInstanceCount: 0
   DisableCollision: 0
   AlwaysPushOut: 1
   AllowRotateBy90: 1
-  PreviewCellSize: {x: 1, y: 1, z: 1}
+  PreviewCellSize: {x: 2, y: 2, z: 2}
   RoundToScale: 1
   MaxRetries: 64
   IndexOnPrint: 5
@@ -15495,7 +15495,7 @@ MonoBehaviour:
     _E_LatestCorrectPortRect:
       serializedVersion: 2
       x: 825.5
-      y: 729.5
+      y: 730.5
       width: 27
       height: 27
     PortType: 1
@@ -15517,7 +15517,7 @@ MonoBehaviour:
     _E_LatestCorrectPortRect:
       serializedVersion: 2
       x: 825.5
-      y: 749.5
+      y: 750.5
       width: 27
       height: 27
     PortType: 1
@@ -15539,7 +15539,7 @@ MonoBehaviour:
     _E_LatestCorrectPortRect:
       serializedVersion: 2
       x: 825.5
-      y: 769.5
+      y: 770.5
       width: 27
       height: 27
     PortType: 1
@@ -15561,7 +15561,7 @@ MonoBehaviour:
     _E_LatestCorrectPortRect:
       serializedVersion: 2
       x: 825.5
-      y: 789.5
+      y: 790.5
       width: 27
       height: 27
     PortType: 1
@@ -16528,13 +16528,13 @@ MonoBehaviour:
   FVariables: []
   ExposeShape: 1
   FieldType: 0
-  DefaultFieldSetup: {fileID: 0}
+  DefaultFieldSetup: {fileID: 11400000, guid: 514ce4efcf5a8854494a0af7e29a53cc, type: 2}
   Instances: 1
   ExposeInstanceCount: 0
   DisableCollision: 0
   AlwaysPushOut: 1
   AllowRotateBy90: 1
-  PreviewCellSize: {x: 1, y: 1, z: 1}
+  PreviewCellSize: {x: 2, y: 2, z: 2}
   RoundToScale: 1
   MaxRetries: 64
   IndexOnPrint: 0

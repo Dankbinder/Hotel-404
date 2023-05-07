@@ -10,7 +10,9 @@ public partial class playerMovement : MonoBehaviour
     [SerializeField] private PlayerInput m_playerInput;
     [SerializeField] private float m_jumpHeight = 5f;
     [SerializeField] private float m_walkSpeed = 5f;
-    [SerializeField] private float m_gravity = 5f;
+    [SerializeField] private float m_gravityYes = 5f;
+    private float m_gravityNone = 0f;
+    private float m_gravity = 0f;
     [SerializeField] private float m_maxPitch = 90f;
     [SerializeField] private Transform m_camera;
     [SerializeField] private float m_lookSense = 5f;
@@ -27,16 +29,23 @@ public partial class playerMovement : MonoBehaviour
     private Vector3 m_SpawnPoint;
     private CharacterController m_controller;
     private Vector3 m_velocity;
+    private bool IsPlayerEnable = false;
 
     
     private float m_pitch;
     // Start is called before the first frame update
     private void Start()
     {
-        
+        m_gravity = m_gravityNone;
+        Invoke("PlayerEnable", 4f); // calls ActivateMethod() after 4 seconds
         m_SpawnPoint = transform.position;
     }
-    
+
+    private void PlayerEnable()
+    {
+        m_gravity = m_gravityYes;
+        IsPlayerEnable = true;
+    }
     
     void Awake()
     {
@@ -78,10 +87,10 @@ public partial class playerMovement : MonoBehaviour
         {
             anim.SetBool("Lock", false);
         }*/
-        
         Movement();
         Look();
         Gravity();
+
     }
 
     public void GoTojail()
@@ -140,7 +149,6 @@ public partial class playerMovement : MonoBehaviour
     private void Gravity()
     {
         m_velocity.y -= m_gravity * Time.deltaTime;
-
         m_controller.Move(m_velocity * Time.deltaTime);
     }
     
